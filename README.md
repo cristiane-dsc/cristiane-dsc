@@ -17,16 +17,17 @@ Ciência e Tecnologia || Neurociência
 ### 💻 Tecnologias e habilidades
 
 <div>
+  <img align="center" height="40" wodth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="cris-dsc-python"/>
   <img align="center" height="40" wodth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="cris-dsc-html"/>
   <img align="center" height="40" wodth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="cris-dsc-css"/>
-  <img align="center" height="40" wodth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="cris-dsc-python"/>
+  <img align="center" height="40" wodth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="cris-dsc-javascript"/>
 </div>
 
 ### 📊 Minhas estatísticas
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cris-dsc&show_icons=true&theme=gruvbox" alt="cris-dsc-general-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cris-dsc&langs_count=3&layout=compact&theme=gruvbox" alt="cris-dsc-languages-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cris-dsc&show_icons=true&theme=gruvbox" alt="cris-dsc-general-stats-card"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cris-dsc&layout=compact&theme=gruvbox" alt="cris-dsc-top-languages-card"/>
 </div>
 
 ### 🌐 Minhas redes sociais
