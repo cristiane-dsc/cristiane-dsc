@@ -26,8 +26,8 @@ Ciência e Tecnologia || Neurociência
 ### 📊 Minhas estatísticas
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cris-dsc&show_icons=true&theme=gruvbox" alt="cris-dsc-general-stats-card"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cris-dsc&layout=compact&theme=gruvbox" alt="cris-dsc-top-languages-card"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiane-dsc&show_icons=true&theme=gruvbox" alt="cristiane-dsc-general-stats-card"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiane-dsc&layout=compact&theme=gruvbox" alt="cristiane-dsc-top-languages-card"/>
 </div>
 
 ### 🌐 Minhas redes sociais
