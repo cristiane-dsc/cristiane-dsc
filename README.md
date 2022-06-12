@@ -16,22 +16,27 @@ Ciência e Tecnologia || Neurociência
 
 ### 💻 Tecnologias e habilidades
 
-<div>
-  <img align="center" height="40" wodth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="cris-dsc-python"/>
-  <img align="center" height="40" wodth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="cris-dsc-html"/>
-  <img align="center" height="40" wodth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="cris-dsc-css"/>
-  <img align="center" height="40" wodth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="cris-dsc-javascript"/>
-</div>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/PeMGpL3.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    <img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" height=50 width=50>
+  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=50 width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50 width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50 width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50 width=50/>
+</p>
 
 ### 📊 Minhas estatísticas
 
-<div>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiane-dsc&show_icons=true&theme=gruvbox" alt="cristiane-dsc-general-stats-card"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiane-dsc&layout=compact&theme=gruvbox" alt="cristiane-dsc-top-languages-card"/>
-</div>
+</p>
 
 ### 🌐 Minhas redes sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiane-s-costa-83a115228/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianedsc/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/cristiane.dsc)
 [![Free Code Camp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/crisDSC)
