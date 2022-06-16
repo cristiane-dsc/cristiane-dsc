@@ -7,12 +7,15 @@
 Meu nome é Cristiane dos Santos Costa --> Cris DSC </br>
 Estou estudando para me tornar desenvolvedora full stack </br>
 Acabei de começar e ainda estou montando meu portfólio </br>
+Aproveita para ver o que eu já incluí nele: [https://cristiane-dsc.github.io/](https://cristiane-dsc.github.io/)
 
 <hr>
+</br>
 
 ### 🎓 Graduações</br>
 Ciência e Tecnologia || Neurociência
 
+</br>
 
 ### 💻 Tecnologias e habilidades
 
@@ -28,12 +31,16 @@ Ciência e Tecnologia || Neurociência
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50 width=50/>
 </p>
 
+</br>
+
 ### 📊 Minhas estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiane-dsc&show_icons=true&theme=gruvbox" alt="cristiane-dsc-general-stats-card"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiane-dsc&layout=compact&theme=gruvbox" alt="cristiane-dsc-top-languages-card"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cristiane-dsc&show_icons=true&theme=gruvbox" alt="cristiane-dsc-general-stats-card"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiane-dsc&layout=compact&theme=gruvbox" alt="cristiane-dsc-top-languages-card"/>
 </p>
+
+</br>
 
 ### 🌐 Minhas redes sociais
 
