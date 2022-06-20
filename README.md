@@ -7,7 +7,7 @@
 Meu nome é Cristiane dos Santos Costa --> Cris DSC </br>
 Estou estudando para me tornar desenvolvedora full stack </br>
 Acabei de começar e ainda estou montando meu portfólio </br>
-Aproveita para ver o que eu já incluí nele: [https://cristiane-dsc.github.io/](https://cristiane-dsc.github.io/)
+Aproveita para ver o que eu já incluí nele: [cristiane-dsc/cristiane-dsc.github.io](https://github.com/cristiane-dsc/cristiane-dsc.github.io)
 
 <hr>
 </br>
@@ -36,8 +36,8 @@ Ciência e Tecnologia || Neurociência
 ### 📊 Minhas estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cristiane-dsc&show_icons=true&theme=gruvbox" alt="cristiane-dsc-general-stats-card"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiane-dsc&layout=compact&theme=gruvbox" alt="cristiane-dsc-top-languages-card"/>
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=cristiane-dsc&show_icons=true&theme=gruvbox" alt="cristiane-dsc-general-stats-card"/>
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiane-dsc&layout=compact&theme=gruvbox" alt="cristiane-dsc-top-languages-card"/>
 </p>
 
 </br>
