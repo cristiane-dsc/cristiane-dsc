@@ -4,10 +4,11 @@
 
 ### Bem vinda(o)!
 
-Meu nome é Cristiane dos Santos Costa --> Cris DSC </br>
-Estou estudando para me tornar desenvolvedora full stack </br>
-Acabei de começar e ainda estou montando meu portfólio </br>
-Aproveita para ver o que eu já incluí nele: [cristiane-dsc/cristiane-dsc.github.io](https://github.com/cristiane-dsc/cristiane-dsc.github.io)
+Meu nome é Cristiane dos Santos Costa </br>
+Sou Desenvolvedora RPA (Robotic Process Automation) </br>
+Anteriormente estava estudando para me tornar desenvolvedora web, porém meu negócio agora é fazer robôs 🤖 </br>
+Atualmente utilizo Electroneek como ferramenta de automação, mas tenho interesse em aprender outras </br>
+Meu portfólio tem mais projetos de dev web, porém aos poucos estou abastecendo com projetos de RPA
 
 <hr>
 </br>
@@ -20,6 +21,7 @@ Ciência e Tecnologia || Neurociência
 ### 💻 Tecnologias e habilidades
 
 <p align="left">
+  <img src="https://github.com/cristiane-dsc/cristiane-dsc/blob/main/logo_electroneek.png" height=50 width=50/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/PeMGpL3.png">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
@@ -29,6 +31,7 @@ Ciência e Tecnologia || Neurociência
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50 width=50/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50 width=50/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50 width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50 width=50/>
 </p>
 
 </br>
