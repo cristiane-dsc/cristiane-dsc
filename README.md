@@ -5,10 +5,10 @@
 ### Bem vinda(o)!
 
 Meu nome é Cristiane dos Santos Costa </br>
-Sou Desenvolvedora RPA (Robotic Process Automation) </br>
-Anteriormente estava estudando para me tornar desenvolvedora web, porém meu negócio agora é fazer robôs 🤖 </br>
-Atualmente utilizo Electroneek como ferramenta de automação, mas tenho interesse em aprender outras </br>
-Meu portfólio tem mais projetos de dev web, porém aos poucos estou abastecendo com projetos de RPA
+Sou Desenvolvedora Low-code com foco em Automação de Processos </br>
+Anteriormente estava estudando para me tornar desenvolvedora web, porém meu negócio agora é automatizar processos 🤖 </br>
+Já trabalhei com Electroneek como ferramenta de automação, mas atualmente utilizo a Microsoft Power Plataform, com Power Automate, Power Apps e Sharepoint </br>
+Também gosto muito de Python e estou aprimorando meus conhecimento e habilidades nessa linguagem
 
 <hr>
 </br>
@@ -21,7 +21,7 @@ Ciência e Tecnologia || Neurociência
 ### 💻 Tecnologias e habilidades
 
 <p align="left">
-  <img src="https://github.com/cristiane-dsc/cristiane-dsc/blob/main/logo_electroneek.png" height=50 width=50/>
+  <img src="https://cdn.pulse2.com/cdn/2021/06/ElectroNeek.jpeg" height=50 width=50/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/PeMGpL3.png">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
@@ -48,5 +48,3 @@ Ciência e Tecnologia || Neurociência
 ### 🌐 Minhas redes sociais
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianedsc/)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/cristiane.dsc)
-[![Free Code Camp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/crisDSC)
